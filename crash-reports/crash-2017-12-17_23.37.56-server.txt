@@ -1,0 +1,44 @@
+---- Minecraft Crash Report ----
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 12/17/17 11:37 PM
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.ArrayList.<init>(ArrayList.java:153)
+	at com.google.common.collect.Lists.newArrayListWithCapacity(Lists.java:190)
+	at ge.a(SourceFile:63)
+	at fy.a(SourceFile:440)
+	at fy.a(SourceFile:78)
+	at fy.a(SourceFile:440)
+	at fy.a(SourceFile:78)
+	at gi.a(SourceFile:119)
+	at gi.a(SourceFile:84)
+	at gi.a(SourceFile:80)
+	at aye.a(SourceFile:66)
+	at on.f(SourceFile:124)
+	at on.b(SourceFile:81)
+	at on.c(SourceFile:95)
+	at net.minecraft.server.MinecraftServer.l(SourceFile:328)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:299)
+	at nz.j(SourceFile:233)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:434)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 3.8.11
+	Java Version: 1.8.0_151, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 974497888 bytes (929 MB) / 1029177344 bytes (981 MB) up to 1029177344 bytes (981 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

@@ -1,0 +1,47 @@
+[21:08:17] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:08:17] [Server thread/INFO]: Loading properties
+[21:08:17] [Server thread/INFO]: Default game type: SURVIVAL
+[21:08:17] [Server thread/INFO]: Generating keypair
+[21:08:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:08:19] [Server thread/INFO]: Using epoll channel type
+[21:08:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:08:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:08:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:08:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:08:20] [Server thread/INFO]: Preparing level "world"
+[21:08:25] [Server thread/INFO]: Loaded 488 advancements
+[21:08:25] [Server thread/INFO]: Preparing start region for level 0
+[21:08:33] [Server thread/INFO]: Preparing spawn area: 0%
+[21:08:34] [Server thread/INFO]: Preparing spawn area: 2%
+[21:08:35] [Server thread/INFO]: Preparing spawn area: 7%
+[21:08:36] [Server thread/INFO]: Preparing spawn area: 16%
+[21:08:37] [Server thread/INFO]: Preparing spawn area: 29%
+[21:08:38] [Server thread/INFO]: Preparing spawn area: 36%
+[21:08:39] [Server thread/INFO]: Preparing spawn area: 45%
+[21:08:40] [Server thread/INFO]: Preparing spawn area: 53%
+[21:08:41] [Server thread/INFO]: Preparing spawn area: 64%
+[21:08:42] [Server thread/INFO]: Preparing spawn area: 92%
+[21:08:42] [Server thread/INFO]: Done (22.301s)! For help, type "help" or "?"
+[21:08:43] [Server thread/INFO]: nathan[/127.0.0.1:53080] logged in with entity id 291 at (137.82093724963585, 78.0, 277.10461123501045)
+[21:08:43] [Server thread/INFO]: nathan joined the game
+[21:08:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3911ms behind, skipping 78 tick(s)
+[21:09:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7167ms behind, skipping 143 tick(s)
+[21:09:55] [Server thread/INFO]: nburn42[/192.168.1.102:49802] logged in with entity id 608 at (147.44951814619364, 98.0, 255.77229037007868)
+[21:09:55] [Server thread/INFO]: nburn42 joined the game
+[21:09:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3254ms behind, skipping 65 tick(s)
+[21:10:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12676ms behind, skipping 253 tick(s)
+[21:10:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3034ms behind, skipping 60 tick(s)
+[21:11:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2501ms behind, skipping 50 tick(s)
+[21:12:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23198ms behind, skipping 463 tick(s)
+[21:12:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3332ms behind, skipping 66 tick(s)
+[21:12:52] [Server thread/WARN]: nathan moved too quickly! 0.3208759701505528,0.0,10.003123178620285
+[21:13:05] [Server thread/WARN]: nathan moved too quickly! 8.762406605759026,0.0,5.116414330348334
+[21:13:09] [Server thread/WARN]: nathan moved too quickly! 2.4546747030069866,0.0,9.737725929300836
+[21:13:17] [Server thread/WARN]: nathan moved too quickly! -9.103626004189351,0.0,4.313903905989378
+[21:13:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 59383ms behind, skipping 1187 tick(s)
+[21:13:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2277ms behind, skipping 45 tick(s)
+[21:15:05] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[21:15:05] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[21:15:05] [Server Watchdog/ERROR]: This crash report has been saved to: /home/ryan/Minecraft/./crash-reports/crash-2017-12-31_21.15.05-server.txt
+[21:15:05] [Server Shutdown Thread/INFO]: Stopping server
+[21:15:05] [Server Shutdown Thread/INFO]: Saving players
